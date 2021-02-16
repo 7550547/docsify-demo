@@ -1,13 +1,13 @@
-<img width="160px" style="border-radius: 50%" bor src="style/head_portrait.jpg">
+<img width="160px" style="border-radius: 50%" bor src="style/bili_6.png">
 
 # **docsify-demo**
 
 - 本文档是作者折腾 ```docsify```以来的学习历程<br>旨在为大家提供一个较完整的docsify框架结构<br>如果本文能为您得到帮助，请给予支持！
 
-[![stars](https://badgen.net/github/stars/mochazi/docsify-demo?color=red)](https://github.com/mochazi/docsify-demo)
-[![forks](https://badgen.net/github/forks/mochazi/docsify-demo?color=4ab8a1)](https://github.com/mochazi/docsify-demo)
+[![stars](https://badgen.net/github/stars/你的GitHub用户名/仓库名称?color=red)]()
+[![forks](https://badgen.net/github/forks/用户名/仓库名称?color=yellow)]()
 ![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
-[GitHubhttps://github.com/7550547/docsifydemo](https://github.com/mochazi/docsify-demo)
+[GitHubhttps://github.com/7550547/docsifydemo]()
 [开始阅读](?id=中文文档)
 
