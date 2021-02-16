@@ -5,4 +5,4 @@
 gitub仓库|[原项目地址](https://github.com/docsifyjs/docsify)
 |[官方文档](https://docsify.js.org/#/)
 - 克隆下来后新建一个文件夹放在里面
-- sdocsify serve doc是本地运行命令
+- sdocsify serve docs是本地运行命令
