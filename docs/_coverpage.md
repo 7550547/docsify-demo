@@ -1,4 +1,4 @@
-<img width="160px" style="border-radius: 50%" bor src="style/bili_6.png">
+<img width="160px" style="border-radius: 50%" bor src="./style/bili_6.png">
 
 # **docsify-demo**
 
@@ -8,6 +8,6 @@
 [![forks](https://badgen.net/github/forks/用户名/仓库名称?color=yellow)]()
 ![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
-[GitHubhttps://github.com/7550547/docsifydemo]()
+[GitHub](https://github.com/7550547/docsify-demo)
 [开始阅读](?id=中文文档)
 
